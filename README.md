@@ -29,19 +29,19 @@
   └── README.md
 
 # Topics Covered 📝
-# 1. Arrays
-# 2. Strings
-# 3. Linked List
-# 4. Stack and Queue
-# 5. Binary Tree
-# 6. Binary Search Tree
-# 7. Heap/Priority Queue
-# 8. Recursion and Backtracking
-# 9. Graph
-# 10. Dynamic Programming
-# 11. Greedy Algorithms
-# 12. Trie
-# 13. Bit Manipulation
+ 1. Arrays
+ 2. Strings
+ 3. Linked List
+ 4. Stack and Queue
+ 5. Binary Tree
+ 6. Binary Search Tree
+ 7. Heap/Priority Queue
+ 8. Recursion and Backtracking
+ 9. Graph
+ 10. Dynamic Programming
+ 11. Greedy Algorithms
+ 12. Trie
+ 13. Bit Manipulation
 
 # How to Use 🚀
 # Step 1: Clone the repository

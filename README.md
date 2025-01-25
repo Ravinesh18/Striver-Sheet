@@ -45,7 +45,7 @@
 
 # How to Use 🚀
 # Step 1: Clone the repository
-git clone https://github.com/ravinesh18/Striver Sheet.git
+git clone https://github.com/Ravinesh18/Striver-Sheet.git
 
 # Step 2: Navigate to the topic folder of your choice
 cd strivers-dsa-sheet/Arrays

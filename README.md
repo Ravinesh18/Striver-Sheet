@@ -7,6 +7,63 @@
 # Repository Structure 📂
   Each topic is stored in its own folder, and within each folder, you'll find solutions
   to the respective problems.
+  
+# Structure:
+- 📂 Strivers-DSA-Sheet
+- ├── 📁 Arrays
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 Strings
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 LinkedList
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 StackAndQueue
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 BinaryTree
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 BinarySearchTree
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 HeapAndPriorityQueue
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 RecursionAndBacktracking
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 Graphs
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 DynamicProgramming
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 GreedyAlgorithms
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 Trie
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- ├── 📁 BitManipulation
+- │   ├── Problem1.cpp
+- │   ├── Problem2.cpp
+- │   └── ...
+- └── README.md
+
 
 # Topics Covered 📝
  1. Arrays

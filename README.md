@@ -5,28 +5,28 @@
   Striver's DSA Sheet, organized topic-wise for ease of navigation.
 
 # Repository Structure 📂
-# Each topic is stored in its own folder, and within each folder, you'll find solutions
-# to the respective problems.
+  Each topic is stored in its own folder, and within each folder, you'll find solutions
+  to the respective problems.
 
 # Structure:
-# 📂 Strivers-DSA-Sheet
-# ├── 📁 Arrays
-# │   ├── Problem1.cpp
-# │   ├── Problem2.cpp
-# │   └── ...
-# ├── 📁 LinkedList
-# │   ├── Problem1.cpp
-# │   ├── Problem2.cpp
-# │   └── ...
-# ├── 📁 BinaryTree
-# │   ├── Problem1.cpp
-# │   ├── Problem2.cpp
-# │   └── ...
-# ├── 📁 Graphs
-# │   ├── Problem1.cpp
-# │   ├── Problem2.cpp
-# │   └── ...
-# └── README.md
+  📂 Strivers-DSA-Sheet
+  ├── 📁 Arrays
+  │   ├── Problem1.cpp
+  │   ├── Problem2.cpp
+  │   └── ...
+  ├── 📁 LinkedList
+  │   ├── Problem1.cpp
+  │   ├── Problem2.cpp
+  │   └── ...
+  ├── 📁 BinaryTree
+  │   ├── Problem1.cpp
+  │   ├── Problem2.cpp
+  │   └── ...
+  ├── 📁 Graphs
+  │   ├── Problem1.cpp
+  │   ├── Problem2.cpp
+  │   └── ...
+  └── README.md
 
 # Topics Covered 📝
 # 1. Arrays

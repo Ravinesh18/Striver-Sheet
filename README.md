@@ -1,8 +1,8 @@
 # Striver's DSA Sheet Solutions 🚀
 
 # Welcome to my Striver's DSA Sheet repository! 🎉 
-# This repository contains solutions to all the problems from the famous 
-# Striver's DSA Sheet, organized topic-wise for ease of navigation.
+  This repository contains solutions to all the problems from the famous 
+  Striver's DSA Sheet, organized topic-wise for ease of navigation.
 
 # Repository Structure 📂
 # Each topic is stored in its own folder, and within each folder, you'll find solutions

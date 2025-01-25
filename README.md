@@ -8,26 +8,6 @@
   Each topic is stored in its own folder, and within each folder, you'll find solutions
   to the respective problems.
 
-# Structure:
-  📂 Strivers-DSA-Sheet
-  ├── 📁 Arrays
-  │   ├── Problem1.cpp
-  │   ├── Problem2.cpp
-  │   └── ...
-  ├── 📁 LinkedList
-  │   ├── Problem1.cpp
-  │   ├── Problem2.cpp
-  │   └── ...
-  ├── 📁 BinaryTree
-  │   ├── Problem1.cpp
-  │   ├── Problem2.cpp
-  │   └── ...
-  ├── 📁 Graphs
-  │   ├── Problem1.cpp
-  │   ├── Problem2.cpp
-  │   └── ...
-  └── README.md
-
 # Topics Covered 📝
  1. Arrays
  2. Strings
@@ -44,13 +24,13 @@
  13. Bit Manipulation
 
 # How to Use 🚀
-# Step 1: Clone the repository
+## Step 1: Clone the repository
 git clone https://github.com/Ravinesh18/Striver-Sheet.git
 
-# Step 2: Navigate to the topic folder of your choice
-cd strivers-dsa-sheet/Arrays
+## Step 2: Navigate to the topic folder of your choice
+cd Strivers-Sheet/Arrays
 
-# Step 3: Open the file to see the solution in your preferred IDE.
+## Step 3: Open the file to see the solution in your preferred IDE.
 
 # Why This Repository? 📌
 # - To help systematically solve and track progress on Striver's DSA Sheet.

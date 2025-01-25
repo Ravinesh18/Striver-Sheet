@@ -24,9 +24,9 @@
  13. Bit Manipulation
 
 # How to Use 🚀
-  Step 1: Clone the repository: git clone https://github.com/Ravinesh18/Striver-Sheet.git
-  Step 2: Navigate to the topic folder of your choice: cd Strivers-Sheet/Arrays
-  Step 3: Open the file to see the solution in your preferred IDE.
+ - Step 1: Clone the repository: git clone https://github.com/Ravinesh18/Striver-Sheet.git
+ - Step 2: Navigate to the topic folder of your choice: cd Strivers-Sheet/Arrays
+ - Step 3: Open the file to see the solution in your preferred IDE.
 
 # Why This Repository? 📌
   - To help systematically solve and track progress on Striver's DSA Sheet.

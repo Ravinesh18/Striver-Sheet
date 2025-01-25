@@ -38,22 +38,22 @@ cd Strivers-Sheet/Arrays
 # - To improve problem-solving skills and DSA concepts.
 
 # Tech Stack 🛠️
-# The solutions are implemented in:
-# - C++
-# (Optional: Mention other languages like Python, Java, etc., if applicable.)
+  The solutions are implemented in:
+  - C++
+  (Optional: Mention other languages like Python, Java, etc., if applicable.)
 
 # How to Contribute 🌟
-# Contributions are welcome! If you'd like to:
-# 1. Add solutions in a new language.
-# 2. Optimize an existing solution.
-# 3. Report a bug or suggest improvements.
+  Contributions are welcome! If you'd like to:
+  1. Add solutions in a new language.
+  2. Optimize an existing solution.
+  3. Report a bug or suggest improvements.
 
 # Please create a pull request or open an issue. 😊
 
 # Contact 📧
-# Feel free to reach out for any suggestions or doubts:
-# - Email: your-mishraviensh18@gmail.com
-# - LinkedIn: https://linkedin.com/in/ravinesh18
-# - GitHub: https://github.com/ravinesh18
+  Feel free to reach out for any suggestions or doubts:
+  - Email: your-mishraviensh18@gmail.com
+  - LinkedIn: https://linkedin.com/in/ravinesh18
+  - GitHub: https://github.com/ravinesh18
 
 # If you find this repository helpful, don’t forget to give it a star! ⭐
